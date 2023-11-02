@@ -1,0 +1,1 @@
+# Azhar CommentHashing is used the comment the single line or double line of codes
